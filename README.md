@@ -3,14 +3,14 @@
 A Streamlit demo app showcasing basic UI elements, widgets, and features for learning purposes.
 
 ## result
-- url = raw.githubusercontent.com/Mamtajangra/streamlit_uses/main/images/ai.png
+  https://raw.githubusercontent.com/Mamtajangra/streamlit_uses/main/images/ai.png
 
 ## Features
 
 - Displays images, titles, headers, and markdown
 - Shows info, warning, error, and success messages
 - Renders LaTeX math
-- Includes widgets:
+- Includes widgets
   - Checkbox
   - Button
   - Radio buttons
