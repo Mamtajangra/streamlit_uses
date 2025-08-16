@@ -2,8 +2,9 @@
 
 A Streamlit demo app showcasing basic UI elements, widgets, and features for learning purposes.
 
+## screenshot
 ![result]
-  (https://raw.githubusercontent.com/Mamtajangra/streamlit_uses/main/images/ai.png)
+  https://raw.githubusercontent.com/Mamtajangra/streamlit_uses/main/images/ai.png
 
 ## Features
 
